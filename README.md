@@ -1,10 +1,10 @@
 # varisai-verse
 A small project to generate varisais if you enter the first line :)
---- 
-# Why this tool?
+
+## Why this tool?
 This tool helps music students and enthusiasts make their own varisais & verify them 
----
-# What is a Varisai?
+
+## What is a Varisai?
 
 A varisai is a practice pattern used in Carnatic music that follows a systematic progression of swaras (musical notes). 
 
