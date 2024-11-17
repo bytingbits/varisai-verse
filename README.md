@@ -56,7 +56,8 @@ Varisais are fundamental exercises in Carnatic music that help students:
 
 ## Important Notes
 
-1. The progression always follows the fixed order: S→R→G→M→P→D→N
-2. After reaching Ni (N), the sequence typically wraps back to Sa (S)
-3. The pattern can be practiced in different speeds and variations
-4. Maintaining rhythm and timing is crucial while practicing varisais
+1. The progression (almost) always follows the fixed order: S→R→G→M→P→D→N
+   (Some ragas don't have all the swaras, ex: Mohanam - S→R→G→P→D→D) 
+3. After reaching Ni (N), the sequence typically wraps back to Sa (S)
+4. The pattern can be practiced in different speeds and variations
+5. Maintaining rhythm and timing is crucial while practicing varisais
