@@ -1,2 +1,4 @@
 # varisai-verse
-A kutti project to generate varisais if you enter the first line :)
+A small project to generate varisais if you enter the first line :)
+---
+What's a varisai? 
