@@ -6,7 +6,8 @@ This tool helps music students and enthusiasts make their own varisais & verify 
 
 ## What is a Varisai?
 
-A varisai is a practice pattern used in Carnatic music that follows a systematic progression of swaras (musical notes). 
+They're exercises which will strengthen your that follows a systematic progression of swaras (musical notes). 
+Varisais are the bread and butter of music (not just carnatic music), if you will!
 
 ## Basic Swaras
 The seven basic swaras in Carnatic music are:
